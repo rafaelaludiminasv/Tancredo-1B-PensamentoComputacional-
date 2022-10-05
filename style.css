@@ -5,3 +5,21 @@ background: rgb(229, 88, 203);
 .capa{
     width: 100%;
 }
+.beneficios{
+    background: rgb(206, 84, 189);
+    text-align: left;
+}
+ul{
+    display: inline-block;
+    vertical-align: top;
+    font-size: 150%;
+margin-right: 150px;
+}
+li{
+    padding: 30px;
+}
+.foto.beneficios{
+    width:  50%;
+    
+}
+
