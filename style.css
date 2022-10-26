@@ -1,25 +1,35 @@
-body{
+body {
     text-align: center;
-background: rgb(229, 88, 203);
+    background: linear-gradient( rgb(20, 102, 177),#5ea7fa);
+    margin: 1 auto;
 }
 .capa{
-    width: 100%;
+    width: 95%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #000000;
 }
 .beneficios{
-    background: rgb(206, 84, 189);
     text-align: left;
+    background-color: rgb(138, 197, 252);
+    display: inline-block;
+}
+.beneficios h2{
+    text-align: center;
+}
+.foto-beneficio{
+    width: 30%;
+    border-radius: 20px;
+    box-shadow: 2px 2px 4px #000000;
 }
 ul{
     display: inline-block;
     vertical-align: top;
-    font-size: 150%;
-margin-right: 150px;
+    font-size: 26px;
+    margin-right: 450px;
 }
 li{
-    padding: 30px;
+    padding: 20px;
 }
-.foto.beneficios{
-    width:  50%;
-    
+.foto-beneficio {
+    width: 30%;
 }
-
